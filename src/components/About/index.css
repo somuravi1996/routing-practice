@@ -1,0 +1,11 @@
+.about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+img{
+    max-width:200px;
+}

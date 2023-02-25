@@ -1,0 +1,37 @@
+.header-container{
+    width: 100%;
+ 
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:0px 10px;
+    align-items: center;
+}
+.logo-blog{
+    display: flex;
+    align-items: center;
+}
+.logo-blog h1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+}
+.menu-items{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu-items li{
+    padding: 4px 8px;
+    font-weight: bold;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+}
